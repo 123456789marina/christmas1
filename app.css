@@ -60,8 +60,5 @@ button:hover{
  
 
 /* Media query for devices with a max width of 480px (mobile phones) */
-@media (max-width: 480px) {
-    .responsive-img {
-        max-width: 100%; /* Image takes up full width on very small screens */
-    }
-}
+ 
+ 

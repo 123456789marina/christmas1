@@ -13,7 +13,7 @@ h1{
 	text-align: center;
 }
 label{
-	font-size: 35px;
+	font-size: 15px;
 	color: sandybrown;
 }
 form{
@@ -38,8 +38,6 @@ input{
 	 margin-top: 30px;
 	 border-radius: 15px;
 	 border: none;
-	height:100uv;
-	width:200px;
 	 
 }
 button{

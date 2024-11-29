@@ -1,7 +1,6 @@
 body{
 	background-image: url("https://th.bing.com/th/id/R.fe8e1637d2425b2419a7ed8a1742f141?rik=cxiRcXMfjTQEag&pid=ImgRaw&r=0");
- margin: 0;
-    padding: 0;
+ 
 }
 
 h2{
@@ -39,11 +38,7 @@ input{
 	 margin-top: 30px;
 	 border-radius: 15px;
 	 border: none;
-	 display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Full viewport height */
-    padding: 10px;
+	 
 }
 button{
 	color: whitesmoke;
